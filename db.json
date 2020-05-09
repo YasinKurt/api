@@ -1,32 +1,26 @@
 [
+  {
+    "rate": "zero",
+    "first_month": 2,
+    "second_month": 500,
+    "third_month": 300
+  },
  {
-   "rate": "zero",
-   "sales_in_first_month": 2,
-   "sales_in_second_month": 500,
-   "sales_in_third_month": 300
- },
+    "rate": "zero",
+    "first_month": 4,
+    "second_month": 300,
+    "third_month": 650
+  },
  {
-   "rate": "zero",
-   "sales_in_first_month": 4,
-   "sales_in_second_month": 300,
-   "sales_in_third_month": 650
- },
- {
-   "rate": "four",
-   "sales_in_first_month": 600,
-   "sales_in_second_month": 200,
-   "sales_in_third_month": 400
- },
- {
-   "rate": "nine",
-   "sales_in_first_month": 450,
-   "sales_in_second_month": 320,
-   "sales_in_third_month": 650
- },
- {
-   "rate": "seven",
-   "sales_in_first_month": 600,
-   "sales_in_second_month": 250,
-   "sales_in_third_month": 350
- }
+    "rate": "four",
+    "first_month": 600,
+    "second_month": 200,
+    "third_month": 400
+  },
+  {
+    "rate": "nine",
+    "first_month": 450,
+    "second_month": 320,
+    "third_month": 650
+  }
 ]
