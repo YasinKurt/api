@@ -1,4 +1,5 @@
-{
+[
+  {
     "rate": "zero",
     "sales_in_first_month": 2,
     "sales_in_second_month": 500,
@@ -34,3 +35,4 @@
     "sales_in_second_month": 200,
     "sales_in_third_month": 700
   }
+]
